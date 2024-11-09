@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Sunil Prajapati",
+    "occupation": "React Native Developer",
+    "description": "currently employed by Satya Kabir E-Solutions Pvt. Ltd. Your Own Mortgage where I work as a React Native Developer across the range of our products.",
+    "image": "profilepic.jpg",
+    "bio": "2+ years of experience as a React Native Developer with Startups (Mostly early stage with the team size of max 6 person in technology) and build up to 10+ products ( Android and IOS applications) in very tight timelines using multiple technologies.Involved in Design, Development and Product department time by time as per organization requirement to handle project End to End (understand the requirement, requirement gathering, propose solutions, build the software, testing and debugging, etc).The technologies which, I've used in my tenure are React.js, React Native, HTML5, CSS3,  JavaScript, JSON, Github, etc.I'm a self-motivated, quick learner, good team player, planning and development, relationship management, operations and good in time and logistics coordination and scheduling.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "prajapatisunil9777@gmail.com",
+    "phone": "+91 9098194917",
+    "address": {
+      "street": "Flat No 6, Shanti Nagar Colony, In front of Aadhar hospital Karond,",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "zip": "462038"
+    },
+    "website": "https://www.linkedin.com/in/sunil-prajapati-780327223/",
+    "resumedownload": "https://tinyurl.com/rxywqze",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/schand143",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Schand143",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sunil-prajapati-780327223/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/iam.s_chand",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sunil4939",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
+    "education": [
+      {
+        "school": "Savitribai Phule Pune University",
+        "degree": "Bachelor of Computer Engineering",
+        "graduated": "June 2018",
+        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school": "Balaghat Polytechnic, Ahmedpur",
+        "degree": "Diploma",
+        "graduated": "March 2014",
+        "description": "Here I took my diploma of Information Technology.And Here I discovered programming and start learning from basic"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wideeye Technology Pvt. Ltd.",
+        "title": "Frontend Developer",
+        "years": "June 2019 - Present",
+        "description": "Working as full time front end developer. I have working in more than 5+ project in React.js, React Native within short period. "
+      },
+      {
+        "company": "KPIT Technology Pvt. Ltd",
+        "title": "Trainee Software Engineer ",
+        "years": "Oct 2018 - Feb 2019",
+        "description": "Worked as full time trainee software engineer 4-month Internship."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Memory Game",
+        "category": "Its JavaScript Memory Game",
+        "image": "Memorygame.jpg",
+        "url": " https://schand143.github.io/Memory-Game/"
+      },
+      {
+        "title": "Weather Application",
+        "category": "This web based app to find current weather",
+        "image": "WeatherApp.jpg",
+        "url": ""
+      },
+      {
+        "title": "Portfolio",
+        "category": "This is a portfolio app",
+        "image": "portfolio.jpg",
+        "url": ""
+      },
+      {
+        "title": "Pixel Art Maker",
+        "category": "This is simple pixel art drawer",
+        "image": "pixel.jpg",
+        "url": " https://schand143.github.io/PixelArtMaker/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Forget Fear, Do Something Different.",
+        "user": "Mahendra Singh Dhoni"
+      },
+      {
+        "text": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "user": "Edsger Dijkstra"
+      }
+    ]
+  }
+}
