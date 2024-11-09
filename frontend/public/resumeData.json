@@ -14,12 +14,12 @@
       "state": "Madhya Pradesh",
       "zip": "462038"
     },
-    "website": "https://www.linkedin.com/in/sunil-prajapati-780327223/",
+    "website": "https://sunil-portfolio-5ucp.onrender.com",
     "resumedownload": "https://tinyurl.com/rxywqze",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/schand143",
+        "url": "https://www.facebook.com/profile.php?id=100057281453762",
         "className": "fa fa-facebook"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/iam.s_chand",
+        "url": "https://www.instagram.com/sunilprajapati5218/",
         "className": "fa fa-instagram"
       },
       {
@@ -49,7 +49,7 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com",
+        "url": "https://join.skype.com/invite/wsiiXCbltSb5",
         "className": "fa fa-skype"
       }
     ]
@@ -58,68 +58,62 @@
     "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
     "education": [
       {
-        "school": "Savitribai Phule Pune University",
-        "degree": "Bachelor of Computer Engineering",
-        "graduated": "June 2018",
-        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+        "school": "RKDF University",
+        "degree": "Master of Technology",
+        "graduated": "July 2024 - Present",
+        "description": "Advanced studies focusing on Development, emphasizing both theoretical and practical knowledge. Engaged in rigorous coursework and research projects to deepen expertise in [Key Areas]. Developed advanced technical skills, problem-solving abilities, and a solid understanding of [Relevant Technologies/Methods]. Dedicated to innovative research and the application of cutting-edge technology to address complex challenges in the engineering field."
       },
       {
-        "school": "Balaghat Polytechnic, Ahmedpur",
-        "degree": "Diploma",
-        "graduated": "March 2014",
-        "description": "Here I took my diploma of Information Technology.And Here I discovered programming and start learning from basic"
+        "school": "RGPV University",
+        "degree": "Bachelor of Technology",
+        "graduated": "July 2020 - June 2024",
+        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
       }
     ],
     "work": [
       {
-        "company": "Wideeye Technology Pvt. Ltd.",
-        "title": "Frontend Developer",
-        "years": "June 2019 - Present",
-        "description": "Working as full time front end developer. I have working in more than 5+ project in React.js, React Native within short period. "
-      },
-      {
-        "company": "KPIT Technology Pvt. Ltd",
-        "title": "Trainee Software Engineer ",
-        "years": "Oct 2018 - Feb 2019",
-        "description": "Worked as full time trainee software engineer 4-month Internship."
+        "company": "Satya Kabir E-Solutions Pvt. Ltd. Indrapuri, Bhopal",
+        "title": "React Native Developer",
+        "years": "July 2022 - Present",
+        "description": "Working as full time React Native Developer. I have working in more than 10+ project in React Native within short period. "
       }
     ],
     "skills": [
       {
         "name": "React Native",
-        "level": "95%"
+        "percent": "95"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "percent": "80"
       },
       {
         "name": "CSS3",
-        "level": "90%"
+        "percent": "90"
       },
       {
         "name": "JavaScript",
-        "level": "85%"
+        "percent": "85"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "percent": "70"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "percent": "50"
       },
       {
         "name": "NodeJs",
-        "level": "60%"
+        "percent": "60"
       },
       {
         "name": "MongoDB",
-        "level": "65%"
+        "percent": "65"
       },
       {
         "name": "ExpressJs",
-        "level": "50%"
+        "percent": "50"
       }
     ]
   },
