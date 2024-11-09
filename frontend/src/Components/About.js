@@ -16,6 +16,16 @@ class About extends Component {
       // var cv = "pdf/" + this.props.data.image;
     }
 
+    const downloadResume = () => {
+      const pdfUrl = '../../../sunilResume.pdf';
+      const link = document.createElement("a");
+      link.href = pdfUrl;
+      link.download = "Sunil Prajapati Resume.pdf"; // specify the filename
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+  }; 
+
     return (
       <section id="about">
         <div className="row">
@@ -49,9 +59,10 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href={resumeDownload} className="button">
+                  {/* <a href={downloadResume} className="button">
                     <i className="fa fa-download"></i>Download Resume
-                  </a>
+                  </a> */}
+                  <button className="button" onClick={downloadResume}><i className="fa fa-download" style={{marginRight: 10}}></i>Download Resume</button>
                   {/* <img className="button" src={cv} alt="Chand Shaikh Resume" /> */}
                 </p>
               </div>
